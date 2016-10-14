@@ -3,13 +3,17 @@ a netduino plus 2 with a RovingNetworks RN42 bluetooth thing (hanging off a sens
 
 setup:
 // http://www.netduino.com/downloads/
+
 // follow instructions to load dev env. under netduino 3, netduino 2, and go
+
 // (this is a netduino plus 2).
+
 // i updated the firmware to 4.3.2.1
 
 // https://learn.sparkfun.com/tutorials/using-the-bluesmirf - tells how to set up com terminal
 
 // http://www.netduino.com/downloads/gettingstarted.pdf
+
 // https://msdn.microsoft.com/en-us/subscriptions/downloads/
 
 // Test with Hyperterminal - find the Com port you connect to, be sure to enable line feeds under File>Properties>Setup>Ascii Setup
